@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.contact-card {
+  border-bottom: 1px solid darkgrey;
+}
+
+.initial {
+  height: 100%;
+}
+
+.card-name {
+  font-size: 18px;
+  font-weight: 500;
+}
+.card-email {
+  font-size: 11px;
+  color: grey;
+}
+
+.btn {
+  width: 100%;
+}
+
+@media screen and (min-width: 576px) {
+}
